@@ -1,0 +1,47 @@
+.box {
+  width: 600px;
+  margin: 50px auto;
+  border: 1px solid darkgray;
+  border-radius: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.sub-box1 {
+  width: 70%;
+  padding: 20px;
+}
+.sub-box2 {
+  padding: 20px;
+}
+
+.img-box {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  /* border: 1px solid black; */
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
+.content {
+  color: darkgray;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(5, 101, 138);
+}
+
+.line {
+  color: darkgrey;
+}
